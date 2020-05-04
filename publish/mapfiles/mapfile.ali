@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aliaslist version="1.0">
+  <alias name="contant_2" value="2" link="../../contents/checkin/contant_2.htm"></alias>
+  <alias name="contant_1" value="1" link="../../contents/checkin/contant_1.htm"></alias>
+  <alias name="contant_3" value="3" link="../../contents/checkout/contant_3.htm"></alias>
+  <alias name="contant_4" value="4" link="../../contents/checkout/contant_4.htm"></alias>
+</aliaslist>
