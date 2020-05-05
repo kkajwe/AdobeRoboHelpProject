@@ -18,7 +18,7 @@
     <includeDropdownText type="boolean">true</includeDropdownText>
   </content>
   <type>chm</type>
-  <outputPath>C:/Users/1566631/Documents/My RoboHelp Projects/outputs/MyDemoProject/</outputPath>
+  <outputPath>C:/Users/1566631/Desktop/</outputPath>
   <name>Microsoft HTML Help</name>
   <starterPage>Default.chm</starterPage>
   <defaultTopic>

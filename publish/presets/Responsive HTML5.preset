@@ -3,8 +3,8 @@
   <title>Adobe Robo project</title>
   <content>
     <toc>
-      <path>../../toc/project_TOC.toc</path>
       <name>project_TOC</name>
+      <path>../../toc/project_TOC.toc</path>
     </toc>
     <index type="boolean">false</index>
     <glossary>
@@ -13,6 +13,11 @@
     </glossary>
     <brs type="array"></brs>
     <masterpage></masterpage>
+    <mapFiles type="array">
+      <mapFilesitem>
+        <path>../mapfiles/mapfile.ali</path>
+      </mapFilesitem>
+    </mapFiles>
     <includeExpandingText type="boolean">true</includeExpandingText>
     <includeDropdownText type="boolean">true</includeDropdownText>
   </content>
@@ -22,7 +27,7 @@
   <name>Responsive HTML5</name>
   <starterPage>index.htm</starterPage>
   <defaultTopic>
-    <name>checkin/contant_1.htm</name>
+    <name>contant_1</name>
     <path>../../contents/checkin/contant_1.htm</path>
   </defaultTopic>
   <mobileapp>
