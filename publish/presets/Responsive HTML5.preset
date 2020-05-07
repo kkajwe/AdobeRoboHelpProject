@@ -12,10 +12,10 @@
       <path>../../glossary/Default.glo</path>
     </glossary>
     <brs type="array"></brs>
-    <masterpage></masterpage>
     <mapFiles type="array">
       <mapFilesitem>
         <path>../mapfiles/mapfile.ali</path>
+        <name>mapfile</name>
       </mapFilesitem>
     </mapFiles>
     <includeExpandingText type="boolean">true</includeExpandingText>
@@ -49,8 +49,11 @@
     <helpBaseURL></helpBaseURL>
     <changeFrequency></changeFrequency>
   </sitemap>
-  <skin></skin>
+  <skin>
+    <path>../skins/Azure_Blue/html5.skn</path>
+  </skin>
   <createThumbNails type="boolean">true</createThumbNails>
+  <styledthumbnails type="boolean">false</styledthumbnails>
   <use_thumbnails type="boolean">true</use_thumbnails>
   <patchHomepage type="boolean">true</patchHomepage>
   <gdprCompliance type="boolean">true</gdprCompliance>
