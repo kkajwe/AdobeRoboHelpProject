@@ -5,6 +5,7 @@
     <page href="../contents/checkin/contant_1.htm" format="html" processing-role="normal"></page>
     <page href="../contents/checkin/contant_2.htm" format="html" processing-role="normal"></page>
     <page href="../contents/checkin/Content3.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/checkin/content_4.htm" format="html" processing-role="normal"></page>
   </book>
   <book navtitle="checkout" format="html" processing-role="normal">
     <page href="../contents/checkout/contant_3.htm" format="html" processing-role="normal"></page>
