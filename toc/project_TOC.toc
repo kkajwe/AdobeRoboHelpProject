@@ -11,5 +11,6 @@
   <book navtitle="checkout" format="html" processing-role="normal">
     <page href="../contents/checkout/contant_3.htm" format="html" processing-role="normal"></page>
     <page href="../contents/checkout/contant_4.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/checkout/content_4.htm" format="html" processing-role="normal"></page>
   </book>
 </map>
