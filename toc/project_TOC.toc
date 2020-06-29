@@ -7,11 +7,13 @@
     <page href="../contents/checkin/Content3.htm" format="html" processing-role="normal"></page>
     <page href="../contents/checkin/content_4.htm" format="html" processing-role="normal"></page>
     <page href="../contents/checkin/content_5.htm" format="html" processing-role="normal"></page>
+    <page href="../contents/checkin/content_6.htm" format="html" processing-role="normal"></page>
   </book>
   <book navtitle="checkout" format="html" processing-role="normal">
     <page href="../contents/checkout/contant_3.htm" format="html" processing-role="normal"></page>
     <page href="../contents/checkout/content_2.htm" format="html" processing-role="normal"></page>
-    <page href="../contents/checkout/content_4.htm" format="html" processing-role="normal"></page>
-    <page href="../contents/checkout/content_6.htm" format="html" processing-role="normal"></page>
+  </book>
+  <book navtitle="Topic" format="html" processing-role="normal">
+    <page href="../contents/Topic/A.htm" format="html" processing-role="normal"></page>
   </book>
 </map>
